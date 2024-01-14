@@ -1,14 +1,14 @@
 # Enhancing-Electrical-Network-Vulnerability-Assessment-with-Machine-Learning
 Overview
-Welcome to the Grid Hub repository! This repository houses the code, datasets, and details for our project focusing on electricity grids. The project leverages data from both the SciGRID project and GridKit, employing spatial and topological analyses to model electric power systems.
+Welcome to the Grid Hub repository! This repository houses the code and datasets for our project, where we explored the vulnerability of nodes in electricity grids. Leveraging datasets from SciGrid and GridKit, we utilized the NetworkX library to generate network models, calculated criticality labels through a combination of Degree, PageRank, and Betweenness centrality, and employed machine learning models to predict node vulnerability.
 
 Code
-The code included in this repository implements a methodology for creating models of electricity grids. It encompasses scripts designed for the PostgreSQL database, utilizing PostGIS spatial extensions for efficient handling of geographical data. The code facilitates heuristic analysis to enhance route-based studies in the context of the SciGRID project.
+The code included in this repository implements a comprehensive approach to assess the vulnerability of nodes in electricity grids. We used NetworkX for network generation and criticality label calculation. Our machine learning models, including CML XGBoost, MLPNN, SVM, GNN, GCN, and GAT, were applied to predict node vulnerability. The code provides a versatile framework for analyzing and predicting the security of electricity grid nodes.
 
 Dataset
-Our project relies on two datasets: one from the SciGRID project and another from GridKit. The SciGRID dataset focuses on automated grid model creation, serving research and related applications. GridKit utilizes spatial and topological analysis to transform OpenStreetMap map objects into a network model of the electric power system. These datasets form the foundation for our comprehensive analysis.
+Our project relies on two primary datasets: one from the SciGrid project and another from GridKit. These datasets serve as the foundation for our analysis, enabling the exploration of node vulnerability in electricity grids.
 
 Project Details
-Our project aims to advance the understanding of electricity grids through the integration of heuristic analysis and route-based studies. By combining the strengths of the SciGRID and GridKit datasets, we explore innovative approaches to model and analyze electric power systems.
+Our project aims to enhance the understanding of node vulnerability in electricity grids by combining network analysis and machine learning techniques. The integration of criticality labels and machine learning predictions contributes valuable insights for real-world applications in securing and optimizing electricity grid infrastructure.
 
 Feel free to explore the code, datasets, and additional documentation provided in this repository. For any inquiries or collaboration opportunities, please reach out to our project team. Thank you for your interest in Grid Hub!
