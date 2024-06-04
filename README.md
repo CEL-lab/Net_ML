@@ -12,3 +12,9 @@ Project Details
 Our project aims to enhance the understanding of node vulnerability in electricity grids by combining network analysis and machine learning techniques. The integration of criticality labels and machine learning predictions contributes valuable insights for real-world applications in securing and optimizing electricity grid infrastructure.
 
 Feel free to explore the code, datasets, and additional documentation provided in this repository. For any inquiries or collaboration opportunities, please reach out to our project team. Thank you for your interest in Grid Hub!
+
+# Citation
+If you use our code or work, please cite the paper as follows:
+"Rahman, M Mishkatur; Akash, Ayman Sajjad; Pirim, Harun; Le, Chau; Le, Trung; and Yadav, Om Prakash (2024) "Enhancing Electrical Network Vulnerability Assessment with Machine Learning and Deep Learning Techniques," Northeast Journal of Complex Systems (NEJCS): Vol. 6 : No. 1 , Article 2."
+DOI: 10.22191/nejcs/vol6/iss1/2
+The Link of the paper - [Enhancing Electrical Network Vulnerability Assessment with Machine Learning and Deep Learning Techniques](https://orb.binghamton.edu/nejcs/vol6/iss1/2/)
